@@ -1,0 +1,57 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class ColorTradingGame {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        Random random = new Random();
+        
+        // Initial Balance
+        double balance = 1000.0;
+        String[] colors = {"Red", "Green", "Violet"};
+
+        System.out.println("--- Welcome to Java Color Trading ---");
+        System.out.println("Your Starting Balance: $" + balance);
+
+        while (balance > 0) {
+            System.out.println("\nChoose a color: (1) Red, (2) Green, (3) Violet, (0) Exit");
+            int choice = scanner.nextInt();
+
+            if (choice == 0) break;
+            if (choice < 1 || choice > 3) {
+                System.out.println("Invalid choice. Try again.");
+                continue;
+            }
+
+            System.out.print("Enter bet amount: $");
+            double bet = scanner.nextDouble();
+
+            if (bet > balance) {
+                System.out.println("Insufficient funds!");
+                continue;
+            }
+
+            // System generates result
+            int winningIndex = random.nextInt(3); // 0, 1, or 2
+            String winningColor = colors[winningIndex];
+            String userColor = colors[choice - 1];
+
+            System.out.println("Result: The color is " + winningColor.toUpperCase());
+
+            // Check Win/Loss
+            if (userColor.equals(winningColor)) {
+                double winAmount = bet * 2;
+                balance += winAmount;
+                System.out.println("WIN! You earned: $" + winAmount);
+            } else {
+                balance -= bet;
+                System.out.println("LOSS! You lost: $" + bet);
+            }
+
+            System.out.println("Current Balance: $" + balance);
+        }
+
+        System.out.println("Game Over. Final Balance: $" + balance);
+        scanner.close();
+    }
+}
